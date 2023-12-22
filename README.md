@@ -1,3 +1,5 @@
+![image](https://github.com/Singh-Supreet/WeatherForecast/assets/98038549/e52068a0-17ac-4554-b979-13dc7ea67e50)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
